@@ -1,5 +1,4 @@
-import funcs
+from funcs import sum_2_num
 
-    sum_2_num()
+sum_2_num()
     
-if __name__ == "__main__":
